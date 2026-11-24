@@ -1,1 +1,0 @@
-# accuknox-qa-assessment
